@@ -14,5 +14,5 @@ Planilha de produtos, com nome dos produtos, o preço máximo e o preço mínino
 ### O que devemos fazer?
 
 Criar uma planilha com a coluna do menor preço encontrado e link onde foi encontrado esse preço. Depois disso, enviar um e-mail com a notificação de menor preço encontrado e o link da compra.
-Caso o preço esteja 20% ou mais de desconto em relação ao preço original. (Vou usar o e-mail joaofcfreire+compras@gmail.com para a finalidade do projeto).
+Caso o preço esteja 20% ou mais de desconto em relação ao preço original. (Vou usar o e-mail joaofcfreire@gmail.com para a finalidade do projeto).
 
